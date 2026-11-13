@@ -9,7 +9,7 @@
  
  ---
 
-## • *My* Contributions. ![Snake Animation](https://raw.githubusercontent.com/itsfernades/itsfernades/output/github-snake-dark.svg)
+###  *My* Contri*butions*. ![Snake Animation](https://raw.githubusercontent.com/itsfernades/itsfernades/output/github-snake-dark.svg)
 
 ### Too*ls:*
 <img src="https://skillicons.dev/icons?i=py,swift,js,html,css,git,github,figma&theme=dark" />
@@ -18,7 +18,7 @@
 [![Refresh Page](https://img.shields.io/badge/Refresh_Page-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsfernades/itsfernades)
 
 ---
-
+### Sta*tus:*
   <img
     height="180"
     src="https://github-stats-extended.vercel.app/api?username=itsfernades&show_icons=true&border_radius=20&bg_color=135,16233D,253C60&title_color=EAF2FF&text_color=DDE7FF&icon_color=A68BFA&border_color=7893B6"
@@ -28,3 +28,14 @@
     src="https://github-stats-extended.vercel.app/api/top-langs?username=itsfernades&layout=compact&border_radius=20&bg_color=135,16233D,253C60&title_color=EAF2FF&text_color=DDE7FF&border_color=7893B6"
   />
 ---
+### **No*tice* — Pro*ject* *Owner*ship & Availa*bility*!**
+
+*All projects presented on this GitHub are exclusively **demonstrative showcases of original projects**. The original versions have their own value and may be subject to commercialization, financial negotiation, or **may not be available for sale**. Public display does not imply authorization for **use, reproduction, or distribution**.*
+
+
+
+![Making it clear that the repositories are merely showcases](https://img.shields.io/badge/Making%20it%20clear%20that%20the%20repositories%20are%20merely%20showcases-red?style=flat)
+
+
+---
+> *b*y *@its*fernades.
